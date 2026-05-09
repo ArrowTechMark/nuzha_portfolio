@@ -48,7 +48,7 @@ function Hero() {
         <div className="profile-wrapper fade-right">
           <div className="profile-ring">
             <img
-              src="/images/profile.jpg"
+              src="/images/profile.jpeg"
               alt="Fathima Nusha"
               className="profile-img float-img"
             />
